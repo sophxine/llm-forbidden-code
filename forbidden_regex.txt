@@ -1,0 +1,5 @@
+^\/\/\s*\.{3}
+^\/\/\s*(R|r)est\s+of
+^\/\/\s*\((K|k)eep\s+the\s+existing
+^\/\/\s*(E|e)xisting\s+code
+\/\/ \((K|k)eeping (.*?) intact\)

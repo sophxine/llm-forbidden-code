@@ -3,5 +3,4 @@
 ^\/\/\s*\((K|k)eep\s+the\s+existing
 ^\/\/\s*(E|e)xisting\s+code
 \/\/ \((K|k)eeping (.*?) intact\)
-<!-- ... will go here -->
 <!--\s*.*?\s*will go here\s*-->
